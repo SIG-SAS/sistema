@@ -1,6 +1,6 @@
 {
- "name": "SIG · SAS Recife — Sistema Integrado de Gestão",
- "short_name": "SIG SAS",
+ "name": "SIG - Infraestrutura",
+ "short_name": "SIG Infra",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
